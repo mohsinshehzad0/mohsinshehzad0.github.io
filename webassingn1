@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Web Page</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Personal Web Page</h1>
+        <p><strong>Registration Number:</strong> Your registration number here</p>
+        <p><strong>Name:</strong> Your name here</p>
+        <h2>Group Members</h2>
+        <ul class="group-members">
+            <li>Member 1</li>
+            <li>Member 2</li>
+            <!-- Add more members if needed -->
+        </ul>
+        <img src="link/to/your/recent/picture.jpg" alt="Your Recent Picture">
+    </div>
+</body>
+</html>
